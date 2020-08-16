@@ -1,4 +1,4 @@
-# scheduale_app
+# schedule_app
 
 A new Flutter project.
 
