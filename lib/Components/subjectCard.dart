@@ -72,7 +72,7 @@ class SubjectCard extends StatelessWidget {
           borderRadius: BorderRadius.circular(15),
           color: Color(currentColor.shade)),
       width: 280,
-      height: 115,
+      height: 112,
     );
 
     Container timeCard = Container(
