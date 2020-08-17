@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../Components/ByWeek/dayBar.dart';
-import '../Components/ByWeek/subjectBarWeek.dart';
-import '../Components/ByWeek/timeBar.dart';
+import 'dayBar.dart';
+import 'subjectBarWeek.dart';
+import 'timeBar.dart';
 import 'package:linked_scroll_controller/linked_scroll_controller.dart';
 
 class ByWeek extends StatefulWidget {
@@ -51,46 +51,44 @@ class _ByWeekState extends State<ByWeek> {
         ),
       ),
     );
-    return Scaffold(
-      body: Row(
-        children: <Widget>[
-          Column(
+    return Row(
+      children: <Widget>[
+        Column(
+          children: <Widget>[
+            emptySpace,
+            Flexible(
+              child: SingleChildScrollView(
+                controller: _controller1V,
+                child: TimeBar(),
+              ),
+            ),
+          ],
+        ),
+        Flexible(
+          child: Column(
             children: <Widget>[
-              emptySpace,
+              SingleChildScrollView(
+                controller: _controller1H,
+                scrollDirection: Axis.horizontal,
+                child: DayBar(),
+              ),
               Flexible(
-                child: SingleChildScrollView(
-                  controller: _controller1V,
-                  child: TimeBar(),
+                child: ListView(
+                  padding: EdgeInsets.zero,
+                  controller: _controller2V,
+                  children: <Widget>[
+                    SingleChildScrollView(
+                      controller: _controller2H,
+                      scrollDirection: Axis.horizontal,
+                      child: SubjectBarWeek(),
+                    ),
+                  ],
                 ),
               ),
             ],
           ),
-          Flexible(
-            child: Column(
-              children: <Widget>[
-                SingleChildScrollView(
-                  controller: _controller1H,
-                  scrollDirection: Axis.horizontal,
-                  child: DayBar(),
-                ),
-                Flexible(
-                  child: ListView(
-                    padding: EdgeInsets.zero,
-                    controller: _controller2V,
-                    children: <Widget>[
-                      SingleChildScrollView(
-                        controller: _controller2H,
-                        scrollDirection: Axis.horizontal,
-                        child: SubjectBarWeek(),
-                      ),
-                    ],
-                  ),
-                ),
-              ],
-            ),
-          ),
-        ],
-      ),
+        ),
+      ],
     );
   }
 }
