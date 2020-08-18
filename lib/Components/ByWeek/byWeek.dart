@@ -5,6 +5,8 @@ import 'timeBar.dart';
 import 'package:linked_scroll_controller/linked_scroll_controller.dart';
 
 class ByWeek extends StatefulWidget {
+  ByWeek({Key key}) : super(key: key);
+
   @override
   _ByWeekState createState() => _ByWeekState();
 }
