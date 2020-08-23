@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:schedule_app/Models/group.dart';
 import 'dayBar.dart';
 import 'subjectBarWeek.dart';
 import 'timeBar.dart';
 import 'package:linked_scroll_controller/linked_scroll_controller.dart';
 
 class ByWeek extends StatefulWidget {
-  ByWeek({Key key}) : super(key: key);
+  final Group schedule;
+  ByWeek({Key key, this.schedule}) : super(key: key);
 
   @override
   _ByWeekState createState() => _ByWeekState();
@@ -82,7 +84,9 @@ class _ByWeekState extends State<ByWeek> {
                     SingleChildScrollView(
                       controller: _controller2H,
                       scrollDirection: Axis.horizontal,
-                      child: SubjectBarWeek(),
+                      child: SubjectBarWeek(
+                        schedule: widget.schedule.group1,
+                      ),
                     ),
                   ],
                 ),

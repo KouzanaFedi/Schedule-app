@@ -3,6 +3,9 @@ import 'dayCalendar.dart';
 import 'package:schedule_app/Icons/custom_icons_icons.dart';
 
 class Calendar extends StatefulWidget {
+  final GlobalKey<ScaffoldState> state;
+  Calendar({Key key, this.state}) : super(key: key);
+
   @override
   _CalendarState createState() => _CalendarState();
 }
@@ -54,7 +57,10 @@ class _CalendarState extends State<Calendar> {
                             width: 40,
                             height: 40,
                             child: Icon(CustomIcons.menu)),
-                        onTap: () {},
+                        onTap: () {
+                          widget.state.currentState.openEndDrawer();
+                          //this.widget.state.currentState.openEndDrawer();
+                        },
                       ),
                     ),
                   ),

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../Interfaces/CardColor.dart';
+import '../Models/cardColor.dart';
 
 class SubjectCard extends StatelessWidget {
   final String subject, prof, place, type, time;

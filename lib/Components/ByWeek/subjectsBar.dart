@@ -1,50 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:schedule_app/Models/day.dart';
+import 'package:schedule_app/Models/seance.dart';
 import '../smallCard.dart';
 
 class SubjectsBar extends StatelessWidget {
   final int greyHex = 0xFF989393;
-  final List day = [
-    {
-      "S": "1",
-      "Matière": "Fondements des systèmes d'exploitation",
-      "Enseignant": "BAROUNI Yosra",
-      "Type": "C",
-      "Salle": "I-16",
-      "Régime": "H"
-    },
-    {
-      "S": "3",
-      "Matière": "Paradigmes de programmation",
-      "Enseignant": "ZALILA Siwar",
-      "Type": "TP",
-      "Salle": "G15",
-      "Régime": "H"
-    },
-    {
-      "S": "4",
-      "Matière": "Paradigmes de programmation",
-      "Enseignant": "ZALILA Siwar",
-      "Type": "TP",
-      "Salle": "G15",
-      "Régime": "H"
-    },
-    {
-      "S": "5",
-      "Matière": "Architectures des ordinateurs",
-      "Enseignant": "LAZREG Nissan",
-      "Type": "TP",
-      "Salle": "G17",
-      "Régime": "Q_B"
-    },
-    {
-      "S": "6",
-      "Matière": "Architectures des ordinateurs",
-      "Enseignant": "LAZREG Nissan",
-      "Type": "TP",
-      "Salle": "G17",
-      "Régime": "Q_B"
-    }
-  ];
+  final Day day;
+  final String regim = "Q_B";
+
+  SubjectsBar({this.day});
 
   Widget subjectSpace(String subject, String place, String type) {
     return Container(
@@ -63,6 +27,14 @@ class SubjectsBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<Widget> items = [];
+    List<Seance> seanceValide = [];
+
+    for (var item in day.seance) {
+      if (item.regime != regim) {
+        seanceValide.add(item);
+      }
+    }
+
     Container empty = Container(
       width: 80,
       height: 100,
@@ -71,18 +43,23 @@ class SubjectsBar extends StatelessWidget {
         right: BorderSide(color: Color(greyHex)),
       )),
     );
-    int current = 0;
-    for (var i = 1; i <= 6; i++) {
-      if (current < day.length) {
-        if (int.parse(day[current]["S"]) == i) {
-          items.add(subjectSpace(day[current]["Matière"], day[current]["Salle"],
-              day[current]["Type"]));
+    int current = 1;
+    int i = 0;
+    while (current <= 6) {
+      if (seanceValide.length > i) {
+        if (seanceValide[i].time == current) {
+          items.add(subjectSpace(seanceValide[i].matiere, seanceValide[i].salle,
+              seanceValide[i].type));
           current++;
+          i++;
         } else {
           items.add(empty);
+          current++;
         }
-      } else
+      } else {
         items.add(empty);
+        current++;
+      }
     }
     return Column(
       children: <Widget>[...items],

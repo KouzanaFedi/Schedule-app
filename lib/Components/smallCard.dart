@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../Interfaces/CardColor.dart';
+import '../Models/cardColor.dart';
 
 class SmallCard extends StatelessWidget {
   final String subject, place, type;

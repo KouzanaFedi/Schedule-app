@@ -15,15 +15,3 @@ class Home extends StatelessWidget {
     ));
   }
 }
-// SubjectCard(
-//         subject: 'Methodologies d’analyse et de conception de logiciels',
-//         place: 'I15',
-//         prof: 'SAIDAINE Mhamed',
-//         type: 'C',
-//         time: 'S1',
-//       ),
-// SmallCard(
-//         subject: 'Methodologies d’analyse et de conception de logiciels',
-//         place: 'I15',
-//         type: 'TP',
-//       ),
