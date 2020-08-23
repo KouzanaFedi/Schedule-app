@@ -1,0 +1,1017 @@
+{
+    "schedule": {
+        "id": "FIA1-01",
+        "group1": {
+            "lundi": [{
+                "Séance": 1,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "BAROUNI Yosra",
+                "Type": "C",
+                "Salle": "I-16",
+                "Régime": "H"
+            }, {
+                "Séance": 3,
+                "Matière": "Paradigmes de programmation",
+                "Enseignant": "ZALILA Siwar",
+                "Type": "TP",
+                "Salle": "G15",
+                "Régime": "H"
+            }, {
+                "Séance": 4,
+                "Matière": "Paradigmes de programmation",
+                "Enseignant": "ZALILA Siwar",
+                "Type": "TP",
+                "Salle": "G15",
+                "Régime": "H"
+            }, {
+                "Séance": 5,
+                "Matière": "Architectures des ordinateurs",
+                "Enseignant": "LAZREG Nissan",
+                "Type": "TP",
+                "Salle": "G17",
+                "Régime": "Q_B"
+            }, {
+                "Séance": 6,
+                "Matière": "Architectures des ordinateurs",
+                "Enseignant": "LAZREG Nissan",
+                "Type": "TP",
+                "Salle": "G17",
+                "Régime": "Q_B"
+            }],
+            "mardi": [{
+                "Séance": 1,
+                "Matière": "Bases de données",
+                "Enseignant": "HAMROUNI Hend",
+                "Type": "TD",
+                "Salle": "I-14",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Probabilité et Statistiques",
+                "Enseignant": "KHIARI Noomene",
+                "Type": "C",
+                "Salle": "I-15",
+                "Régime": "H"
+            }, {
+                "Séance": 3,
+                "Matière": "Paradigmes de programmation",
+                "Enseignant": "BOUDEN Mondher",
+                "Type": "C",
+                "Salle": "I-15",
+                "Régime": "H"
+            }, {
+                "Séance": 4,
+                "Matière": "Bases de données",
+                "Enseignant": "BARIKA KTATA Farah",
+                "Type": "C",
+                "Salle": "I-05",
+                "Régime": "H"
+            }, {
+                "Séance": 5,
+                "Matière": "Algorithmique et structures de données",
+                "Enseignant": "ACHOUR Sami",
+                "Type": "C",
+                "Salle": "I-17",
+                "Régime": "H"
+            }],
+            "mercredi": [{
+                "Séance": 1,
+                "Matière": "Probabilité et Statistiques",
+                "Enseignant": "MAKTOUF Hassen",
+                "Type": "TD",
+                "Salle": "I-10",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Anglais 1",
+                "Enseignant": "DHOUKAR Aida",
+                "Type": "C",
+                "Salle": "I-19",
+                "Régime": "H"
+            }, {
+                "Séance": 4,
+                "Matière": "Mathématiques discrètes",
+                "Enseignant": "CHERIF Farouk",
+                "Type": "TD",
+                "Salle": "I-05",
+                "Régime": "Q_A"
+            }],
+            "jeudi": [{
+                "Séance": 1,
+                "Matière": "Architectures des ordinateurs",
+                "Enseignant": "SAYADI Fatma Ezzahra",
+                "Type": "C",
+                "Salle": "I-10",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Algorithmique et structures de données",
+                "Enseignant": "MAHEDHBI Rim",
+                "Type": "TD",
+                "Salle": "I-17",
+                "Régime": "H"
+            }, {
+                "Séance": 3,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "NAOUAR Fatiha",
+                "Type": "TP",
+                "Salle": "G08",
+                "Régime": "Q_B"
+            }, {
+                "Séance": 3,
+                "Matière": "Bases de données",
+                "Enseignant": "CHTIOUI Houssemeddine",
+                "Type": "TP",
+                "Salle": "G04",
+                "Régime": "Q_A"
+            }, {
+                "Séance": 4,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "NAOUAR Fatiha",
+                "Type": "TP",
+                "Salle": "G08",
+                "Régime": "Q_B"
+            }, {
+                "Séance": 4,
+                "Matière": "Bases de données",
+                "Enseignant": "CHTIOUI Houssemeddine",
+                "Type": "TP",
+                "Salle": "G04",
+                "Régime": "Q_A"
+            }],
+            "vendredi": [{
+                "Séance": 1,
+                "Matière": "Mathématiques discrètes",
+                "Enseignant": "CHERIF Farouk",
+                "Type": "C",
+                "Salle": "I-05",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Transmission de données",
+                "Enseignant": "FEKI Souheila",
+                "Type": "TD",
+                "Salle": "J06",
+                "Régime": "Q_B"
+            }, {
+                "Séance": 3,
+                "Matière": "Transmission de données",
+                "Enseignant": "FEKI Souheila",
+                "Type": "C",
+                "Salle": "J06",
+                "Régime": "H"
+            }],
+            "samedi": [{
+                "Séance": 1,
+                "Matière": "Français 1",
+                "Enseignant": "HIZEM Fadwa",
+                "Type": "C",
+                "Salle": "J05",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Création d'entreprises et innovation",
+                "Enseignant": "OUARTANI Chokri",
+                "Type": "C",
+                "Salle": "M02",
+                "Régime": "H"
+            }, {
+                "Séance": 2,
+                "Matière": "Création d'entreprises et innovation",
+                "Enseignant": "OUARTANI Chokri",
+                "Type": "TD",
+                "Salle": "M02",
+                "Régime": "H"
+            }, {
+                "Séance": 3,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "ZAOUALI Sirine",
+                "Type": "TD",
+                "Salle": "K08",
+                "Régime": "H"
+            }]
+        },
+        "group2": {
+            "lundi": [{
+                "Séance": 3,
+                "Matière": "Paradigmes de programmation",
+                "Enseignant": "WALHAZI Hajer",
+                "Type": "TP",
+                "Salle": "G13",
+                "Régime": "H"
+            }, {
+                "Séance": 4,
+                "Matière": "Paradigmes de programmation",
+                "Enseignant": "WALHAZI Hajer",
+                "Type": "TP",
+                "Salle": "G13",
+                "Régime": "H"
+            }, {
+                "Séance": 5,
+                "Matière": "Architectures des ordinateurs",
+                "Enseignant": "LAZREG Nissan",
+                "Type": "TP",
+                "Salle": "G17",
+                "Régime": "Q_A"
+            }, {
+                "Séance": 6,
+                "Matière": "Architectures des ordinateurs",
+                "Enseignant": "LAZREG Nissan",
+                "Type": "TP",
+                "Salle": "G17",
+                "Régime": "Q_A"
+            }],
+            "jeudi": [{
+                "Séance": 3,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "NAOUAR Fatiha",
+                "Type": "TP",
+                "Salle": "G08",
+                "Régime": "Q_A"
+            }, {
+                "Séance": 3,
+                "Matière": "Bases de données",
+                "Enseignant": "CHTIOUI Houssemeddine",
+                "Type": "TP",
+                "Salle": "G04",
+                "Régime": "Q_B"
+            }, {
+                "Séance": 4,
+                "Matière": "Fondements des systèmes d'exploitation",
+                "Enseignant": "NAOUAR Fatiha",
+                "Type": "TP",
+                "Salle": "G08",
+                "Régime": "Q_A"
+            }, {
+                "Séance": 4,
+                "Matière": "Bases de données",
+                "Enseignant": "CHTIOUI Houssemeddine",
+                "Type": "TP",
+                "Salle": "G04",
+                "Régime": "Q_B"
+            }]
+        }
+    },
+    "alternatives": [{
+            "id": "FIA1-02",
+            "group1": {
+                "lundi": [{
+                    "Séance": 1,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G03",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G03",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_A"
+                }],
+                "mardi": [{
+                    "Séance": 1,
+                    "Matière": "Bases de données",
+                    "Enseignant": "BARIKA KTATA Farah",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "MAKTOUF Hassen",
+                    "Type": "TD",
+                    "Salle": "I-10",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "ACHOUR Sami",
+                    "Type": "C",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "KHIARI Noomene",
+                    "Type": "C",
+                    "Salle": "I-13",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "HAMROUNI Hend",
+                    "Type": "TD",
+                    "Salle": "I-10",
+                    "Régime": "H"
+                }],
+                "mercredi": [{
+                    "Séance": 1,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "SAYADI Fatma Ezzahra",
+                    "Type": "C",
+                    "Salle": "J08",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "TD",
+                    "Salle": "I-05",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "ZAOUALI Sirine",
+                    "Type": "TD",
+                    "Salle": "K09",
+                    "Régime": "H"
+                }],
+                "jeudi": [{
+                    "Séance": 1,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "MAHEDHBI Rim",
+                    "Type": "TD",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "BAROUNI Yosra",
+                    "Type": "C",
+                    "Salle": "I-03",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Anglais 1",
+                    "Enseignant": "DHOUKAR Aida",
+                    "Type": "C",
+                    "Salle": "I-19",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "BOUDEN Mondher",
+                    "Type": "C",
+                    "Salle": "I-15",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Français 1",
+                    "Enseignant": "HIZEM Fadwa",
+                    "Type": "C",
+                    "Salle": "J06",
+                    "Régime": "H"
+                }],
+                "vendredi": [{
+                    "Séance": 1,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "C",
+                    "Salle": "J06",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "TD",
+                    "Salle": "J06",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "C",
+                    "Salle": "K10",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "TD",
+                    "Salle": "K10",
+                    "Régime": "H"
+                }],
+                "samedi": [{
+                    "Séance": 1,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "B08-A",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "B08-A",
+                    "Régime": "Q_B"
+                }]
+            },
+            "group2": {
+                "lundi": [{
+                    "Séance": 1,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_B"
+                }],
+                "vendredi": [{
+                    "Séance": 3,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }],
+                "samedi": [{
+                    "Séance": 1,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "B08-A",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "B08-A",
+                    "Régime": "Q_A"
+                }]
+            }
+        },
+        {
+            "id": "FIA1-03",
+            "group1": {
+                "lundi": [{
+                    "Séance": 1,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "TD",
+                    "Salle": "J06",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "BAROUNI Yosra",
+                    "Type": "C",
+                    "Salle": "I-16",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "C",
+                    "Salle": "J06",
+                    "Régime": "H"
+                }],
+                "mardi": [{
+                    "Séance": 1,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "ACHOUR Sami",
+                    "Type": "C",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Bases de données",
+                    "Enseignant": "BARIKA KTATA Farah",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G01",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G20",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G01",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G20",
+                    "Régime": "Q_B"
+                }],
+                "mercredi": [{
+                    "Séance": 1,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "KHIARI Noomene",
+                    "Type": "C",
+                    "Salle": "I-16",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "MAKTOUF Hassen",
+                    "Type": "TD",
+                    "Salle": "I-09",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "ZAOUALI Sirine",
+                    "Type": "TD",
+                    "Salle": "K04",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "TD",
+                    "Salle": "I-05",
+                    "Régime": "Q_B"
+                }],
+                "jeudi": [{
+                    "Séance": 1,
+                    "Matière": "Anglais 1",
+                    "Enseignant": "DHOUKAR Aida",
+                    "Type": "C",
+                    "Salle": "I-16",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "SAYADI Fatma Ezzahra",
+                    "Type": "C",
+                    "Salle": "J06",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "BOUDEN Mondher",
+                    "Type": "C",
+                    "Salle": "I-15",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "MAHEDHBI Rim",
+                    "Type": "TD",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }],
+                "vendredi": [{
+                    "Séance": 1,
+                    "Matière": "Français 1",
+                    "Enseignant": "HIZEM Fadwa",
+                    "Type": "C",
+                    "Salle": "J05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "C",
+                    "Salle": "K09",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "TD",
+                    "Salle": "K09",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Bases de données",
+                    "Enseignant": "HAMROUNI Hend",
+                    "Type": "TD",
+                    "Salle": "I-11",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G14",
+                    "Régime": "H"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G14",
+                    "Régime": "H"
+                }]
+            },
+            "group2": {
+                "mardi": [{
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G01",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G20",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G20",
+                    "Régime": "Q_A"
+                }],
+                "jeudi": [{
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }],
+                "vendredi": [{
+                    "Séance": 5,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }]
+            }
+        },
+        {
+            "id": "FIA1-04",
+            "group1": {
+                "lundi": [{
+                    "Séance": 1,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "TD",
+                    "Salle": "J06",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Transmission de données",
+                    "Enseignant": "FEKI Souheila",
+                    "Type": "C",
+                    "Salle": "J06",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "BAROUNI Yosra",
+                    "Type": "C",
+                    "Salle": "I-16",
+                    "Régime": "H"
+                }],
+                "mardi": [{
+                    "Séance": 1,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "KHIARI Noomene",
+                    "Type": "C",
+                    "Salle": "I-15",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "ACHOUR Sami",
+                    "Type": "C",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Bases de données",
+                    "Enseignant": "BARIKA KTATA Farah",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "BOUDEN Mondher",
+                    "Type": "C",
+                    "Salle": "I-15",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_A"
+                }],
+                "mercredi": [{
+                    "Séance": 1,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "C",
+                    "Salle": "I-05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "SAYADI Fatma Ezzahra",
+                    "Type": "C",
+                    "Salle": "I-03",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Mathématiques discrètes",
+                    "Enseignant": "CHERIF Farouk",
+                    "Type": "TD",
+                    "Salle": "I-05",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Probabilité et Statistiques",
+                    "Enseignant": "MAKTOUF Hassen",
+                    "Type": "TD",
+                    "Salle": "I-10",
+                    "Régime": "H"
+                }],
+                "jeudi": [{
+                    "Séance": 1,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Algorithmique et structures de données",
+                    "Enseignant": "MAHEDHBI Rim",
+                    "Type": "TD",
+                    "Salle": "I-17",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Anglais 1",
+                    "Enseignant": "DHOUKAR Aida",
+                    "Type": "C",
+                    "Salle": "I-19",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G16",
+                    "Régime": "Q_A"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G16",
+                    "Régime": "Q_A"
+                }],
+                "vendredi": [{
+                    "Séance": 2,
+                    "Matière": "Français 1",
+                    "Enseignant": "HIZEM Fadwa",
+                    "Type": "C",
+                    "Salle": "J05",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G18",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "ZALILA Siwar",
+                    "Type": "TP",
+                    "Salle": "G18",
+                    "Régime": "H"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "HAMROUNI Hend",
+                    "Type": "TD",
+                    "Salle": "I-19",
+                    "Régime": "H"
+                }],
+                "samedi": [{
+                    "Séance": 2,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "ZAOUALI Sirine",
+                    "Type": "TD",
+                    "Salle": "K08",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "C",
+                    "Salle": "K10",
+                    "Régime": "H"
+                }, {
+                    "Séance": 3,
+                    "Matière": "Création d'entreprises et innovation",
+                    "Enseignant": "OUARTANI Chokri",
+                    "Type": "TD",
+                    "Salle": "K10",
+                    "Régime": "H"
+                }]
+            },
+            "group2": {
+                "mardi": [{
+                    "Séance": 5,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Bases de données",
+                    "Enseignant": "CHTIOUI Houssemeddine",
+                    "Type": "TP",
+                    "Salle": "G04",
+                    "Régime": "Q_B"
+                }],
+                "jeudi": [{
+                    "Séance": 1,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 2,
+                    "Matière": "Fondements des systèmes d'exploitation",
+                    "Enseignant": "NAOUAR Fatiha",
+                    "Type": "TP",
+                    "Salle": "G08",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 5,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G16",
+                    "Régime": "Q_B"
+                }, {
+                    "Séance": 6,
+                    "Matière": "Architectures des ordinateurs",
+                    "Enseignant": "LAZREG Nissan",
+                    "Type": "TP",
+                    "Salle": "G16",
+                    "Régime": "Q_B"
+                }],
+                "vendredi": [{
+                    "Séance": 3,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }, {
+                    "Séance": 4,
+                    "Matière": "Paradigmes de programmation",
+                    "Enseignant": "WALHAZI Hajer",
+                    "Type": "TP",
+                    "Salle": "G13",
+                    "Régime": "H"
+                }]
+            }
+        }
+    ]
+}
